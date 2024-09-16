@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "blankExpo",
+    "name": "cheetingDay",
     "slug": "blankExpo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,10 +18,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.parkdu7.blankExpo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2a3c74ab-aed6-41de-a8ca-38d6868cf02b"
+      }
     }
   }
 }
